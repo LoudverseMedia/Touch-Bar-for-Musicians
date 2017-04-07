@@ -2,10 +2,10 @@
 A collection of ready-to-use Touch Bar mappings for musicians, DJs, producers, audio engineers, and enthusiasts.
 
 ### Supported Applications
-- Touch Bar for Ableton Live
-- Touch Bar for iZotope Ozone
 - Touch Bar for Audionamix TRAX
-- Touch Bar for OBS
+- Touch Bar for Ableton Live (coming soon)
+- Touch Bar for iZotope Ozone (coming soon)
+- Touch Bar for OBS (coming soon)
 
 ### How to Install
 1. Click the green "Clone or download" button on this page and then select "Download ZIP"
