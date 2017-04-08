@@ -21,4 +21,4 @@ Send an email to touchbar@loudverse.com for questions, comments, and ideas.
 
 ---
 
-(c) 2017 Loudverse Media. All Rights Reserved.
+(c) 2017 [Loudverse Media](http://loudverse.com). All Rights Reserved.
